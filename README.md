@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `cd backend` and `json-server --watch database.json` for a dev backend server. Navigate to `http://localhost:3000/
+Run `cd backend` and `json-server --watch database.json` for a dev backend server. Navigate to `http://localhost:3000/`
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
